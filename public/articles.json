@@ -170,16 +170,6 @@
     "color": "blue"
   },
   {
-    "id":17,
-    "title": "Rideau bleu clair",
-    "description": "un rideau bleu clair",
-    "price": 34.99,
-    "images": ["../src/assets/couleur-items/rideaux/rideau-bleu2.jpeg"],
-    "category": "Textiles",
-    "sub_category": "rideau",
-    "color": "light-blue"
-  },
-  {
     "id":18,
     "title": "Rideau gris",
     "description": "un rideau gris",
@@ -218,6 +208,16 @@
     "category": "Textiles",
     "sub_category": "rideau",
     "color": "green"
+  },
+  {
+    "id":22,
+    "title": "Rideau bleu clair",
+    "description": "un rideau bleu clair",
+    "price": 34.99,
+    "images": ["../src/assets/couleur-items/rideaux/rideau-bleu2.jpeg"],
+    "category": "Textiles",
+    "sub_category": "rideau",
+    "color": "light-blue"
   }
 
 ]

@@ -19,8 +19,10 @@
         <div class="mx-auto max-w-7xl px-6 pb-32 pt-36 sm:pt-60 lg:px-8 lg:pt-32">
           <div class="mx-auto max-w-2xl gap-x-14 lg:mx-0 lg:flex lg:max-w-none lg:items-center">
             <div class="relative w-full max-w-xl lg:shrink-0 xl:max-w-2xl">
-              <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">{{headerData.title}}</h1>
-              <p class="mt-6 text-lg leading-8 text-gray-600 sm:max-w-md lg:max-w-none">{{ headerData.description}}</p>
+              <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Lorem Ipsum</h1>
+              <p class="mt-6 text-lg leading-8 text-gray-600 sm:max-w-md lg:max-w-none">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit, quam ac posuere vehicula, lorem augue elementum elit, at sodales urna ante quis odio. Aenean.
+              </p>
               <div class="mt-10 flex items-center gap-x-6">
                 <a href="/articles" class="rounded-md bg-[#6A9156] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#547643] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#547643]">{{ headerData.buttonTitle }}</a>
               </div>

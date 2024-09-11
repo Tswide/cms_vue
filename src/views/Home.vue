@@ -1,8 +1,8 @@
 <template>
   <div v-if="id !== -1">
     <!-- Les headers -->
-    <HeaderNoImage v-if="id === 0 && isDataLoaded" :headerData="header" />
-    <HeaderImageUnique v-if="id === 1 && isDataLoaded" :headerData="header" />
+    <HeaderNoImage v-if="id === 1 && isDataLoaded" :headerData="header" />
+    <HeaderImageUnique v-if="id === 0 && isDataLoaded" :headerData="header" />
     <HeaderImageMulti v-if="id === 2 && isDataLoaded" :headerData="header" />
     <!-- Categories -->
     <Categorie />

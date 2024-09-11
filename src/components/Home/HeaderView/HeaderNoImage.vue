@@ -6,8 +6,8 @@
     </div>
     <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
       <div class="text-center">
-        <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">{{ headerData.title }}</h1>
-        <p class="mt-6 text-lg leading-8 text-gray-600">{{ headerData.description }}</p>
+        <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Lorem ipsum dolor</h1>
+        <p class="mt-6 text-lg leading-8 text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit, quam ac posuere vehicula, lorem augue elementum elit, at sodales urna ante quis odio. Aenean.</p>
         <div class="mt-10 flex items-center justify-center gap-x-6">
           <a href="/articles" class="rounded-md bg-[#6A9156] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#547643] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#547643]">Get started</a>
         </div>
