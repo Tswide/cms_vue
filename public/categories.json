@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "title": "Accessoire-bureau",
+    "image_url": "../src/assets/catégories/Accessoire-bureau/categorie-bureau.jpeg"
+  },
+
+  {
+    "id": 2,
+    "title": "Art-mural",
+    "image_url": "../src/assets/catégories/Art-mural/categorie-mural.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Eclairage",
+    "image_url": "../src/assets/catégories/Eclairage/categorie-lampe.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Plantes",
+    "image_url": "../src/assets/catégories/Plantes/categorie-plante.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Tapis",
+    "image_url": "../src/assets/catégories/Tapis/categorie-tapis.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Textiles",
+    "image_url": "../src/assets/catégories/Textiles/categorie-textile.jpeg"
+  }
+]

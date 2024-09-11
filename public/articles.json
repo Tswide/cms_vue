@@ -1,0 +1,223 @@
+[
+  {
+    "id":1,
+    "title": "bureau1",
+    "description": "un bureau en metal blanc",
+    "price": 9.99,
+    "images": ["../src/assets/catégories/Accessoire-bureau/bureau1.jpeg"],
+    "category": "Accessoire-bureau",
+    "sub_category": "bureau",
+    "color": "white"
+  },
+  {
+    "id":2,
+    "title": "bureau2",
+    "description": "un bureau en bois brun",
+    "price": 14.99,
+    "images": ["../src/assets/catégories/Accessoire-bureau/bureau2.jpeg"],
+    "category": "Accessoire-bureau",
+    "sub_category": "bureau",
+    "color": "brown"
+  },
+  {
+    "id":3,
+    "title": "toile1",
+    "description": "une toile répresentant un bison",
+    "price": 12.99,
+    "images": ["../src/assets/catégories/Art-mural/toile1.jpeg"],
+    "category": "Art-mural",
+    "sub_category": "toile",
+    "color": "white"
+  },
+  {
+    "id":4,
+    "title": "toile2",
+    "description": "une toile représentant un cerf",
+    "price": 29.99,
+    "images": ["../src/assets/catégories/Art-mural/toile2.jpeg","../src/assets/catégories/Art-mural/toile2.jpeg"],
+    "category": "Art-mural",
+    "sub_category": "toile",
+    "color": "white"
+  },
+  {
+    "id":5,
+    "title": "lampe1",
+    "description": "une lampe à fixer au plafond",
+    "price": 34.99,
+    "images": ["../src/assets/catégories/Eclairage/lampe1.jpeg"],
+    "category": "Eclairage",
+    "sub_category": "Lampe",
+    "color": "white"
+  },
+  {
+    "id":6,
+    "title": "lampe2",
+    "description": "une lampe sur pied",
+    "price": 34.99,
+    "images": ["../src/assets/catégories/Eclairage/lampe2.jpeg"],
+    "category": "Eclairage",
+    "sub_category": "Lampe",
+    "color": "white"
+  },
+  {
+    "id":7,
+    "title": "plante1",
+    "description": "une vraie plante",
+    "price": 34.99,
+    "images": ["../src/assets/catégories/Plantes/plante1.jpeg"],
+    "category": "Plantes",
+    "sub_category": "plante",
+    "color": "green"
+  },
+  {
+    "id":8,
+    "title": "plante2",
+    "description": "une fausse plante",
+    "price": 34.99,
+    "images": ["../src/assets/catégories/Plantes/plante2.jpeg"],
+    "category": "Plantes",
+    "sub_category": "plante",
+    "color": "green"
+  },
+  {
+    "id":9,
+    "title": "Tapis1",
+    "description": "un tapis bleu ",
+    "price": 34.99,
+    "images": ["../src/assets/catégories/Tapis/tapis1.jpeg"],
+    "category": "Tapis",
+    "sub_category": "tapis",
+    "color": "blue"
+  },
+  {
+    "id":10,
+    "title": "Tapis2",
+    "description": "un tapis beige",
+    "price": 34.99,
+    "images": ["../src/assets/catégories/Tapis/tapis2.jpeg"],
+    "category": "Tapis",
+    "sub_category": "tapis",
+    "color": "white"
+  },
+  {
+    "id":11,
+    "title": "Coussin beige",
+    "description": "un coussin beige",
+    "price": 34.99,
+    "images": ["../src/assets/catégories/Textiles/textile1.jpeg"],
+    "category": "Textiles",
+    "sub_category": "coussin",
+    "color": "yellow"
+  },
+  {
+    "id":12,
+    "title": "Coussin gris",
+    "description": "un coussin gris",
+    "price": 34.99,
+    "images": ["../src/assets/catégories/Textiles/textile2.jpeg"],
+    "category": "Textiles",
+    "sub_category": "coussin",
+    "color": "grey"
+  },
+  {
+    "id":13,
+    "title": "Coussin blanc",
+    "description": "un coussin blanc",
+    "price": 34.99,
+    "images": ["../src/assets/couleur-items/coussins/coussin-blanc.jpeg"],
+    "category": "Textiles",
+    "sub_category": "coussin",
+    "color": "white"
+  },
+  {
+    "id":14,
+    "title": "Coussin rose",
+    "description": "un coussin rose",
+    "price": 34.99,
+    "images": ["../src/assets/couleur-items/coussins/coussin-rose.jpeg"],
+    "category": "Textiles",
+    "sub_category": "coussin",
+    "color": "pink"
+  },
+  {
+    "id":15,
+    "title": "Coussin rouge",
+    "description": "un coussin rouge",
+    "price": 34.99,
+    "images": ["../src/assets/couleur-items/coussins/coussin-rouge.jpeg"],
+    "category": "Textiles",
+    "sub_category": "coussin",
+    "color": "red"
+  },
+  {
+    "id":16,
+    "title": "Coussin vert",
+    "description": "un coussin vert",
+    "price": 34.99,
+    "images": ["../src/assets/couleur-items/coussins/coussin-vert.jpeg"],
+    "category": "Textiles",
+    "sub_category": "coussin",
+    "color": "green"
+  },
+  {
+    "id":17,
+    "title": "Rideau bleu",
+    "description": "un rideau bleu",
+    "price": 34.99,
+    "images": ["../src/assets/couleur-items/rideaux/rideau-bleu.jpeg"],
+    "category": "Textiles",
+    "sub_category": "rideau",
+    "color": "blue"
+  },
+  {
+    "id":17,
+    "title": "Rideau bleu clair",
+    "description": "un rideau bleu clair",
+    "price": 34.99,
+    "images": ["../src/assets/couleur-items/rideaux/rideau-bleu2.jpeg"],
+    "category": "Textiles",
+    "sub_category": "rideau",
+    "color": "light-blue"
+  },
+  {
+    "id":18,
+    "title": "Rideau gris",
+    "description": "un rideau gris",
+    "price": 34.99,
+    "images": ["../src/assets/couleur-items/rideaux/rideau-gris.jpeg"],
+    "category": "Textiles",
+    "sub_category": "rideau",
+    "color": "grey"
+  },
+  {
+    "id":19,
+    "title": "Rideau jaune",
+    "description": "un rideau jaune",
+    "price": 34.99,
+    "images": ["../src/assets/couleur-items/rideaux/rideau-jaune.jpeg"],
+    "category": "Textiles",
+    "sub_category": "rideau",
+    "color": "yellow"
+  },
+  {
+    "id":20,
+    "title": "Rideau rose",
+    "description": "un rideau rose",
+    "price": 34.99,
+    "images": ["../src/assets/couleur-items/rideaux/rideau-rose.jpeg"],
+    "category": "Textiles",
+    "sub_category": "rideau",
+    "color": "pink"
+  },
+  {
+    "id":21,
+    "title": "Rideau vert",
+    "description": "un rideau vert",
+    "price": 34.99,
+    "images": ["../src/assets/couleur-items/rideaux/rideau-vert.jpeg"],
+    "category": "Textiles",
+    "sub_category": "rideau",
+    "color": "green"
+  }
+
+]
